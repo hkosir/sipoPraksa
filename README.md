@@ -34,4 +34,5 @@ SSD je sodobna oblika shranjevanja podatkov, ki uporablja elektronski flash pomn
 
 HDD in SSD se razlikujeta predvsem po tem, kako shranjujeta podatke, saj HDD uporablja mehanske, vrteče se plošče, medtem ko SSD podatke zapisuje v elektronski flash pomnilnik, kar pomeni, da SSD deluje bistveno hitreje, je tišji, bolj odporen na udarce in porabi manj energije, medtem ko je HDD počasnejši, bolj občutljiv na tresljaje, a ponuja več prostora za nižjo ceno.
 
-8. Kaj je particije?
+8. Kaj je particija?
+Particija je logična razdelitev fizičnega diska, pri kateri se en sam disk razdeli na več ločenih delov, ki jih operacijski sistem obravnava kot samostojne enote. Ko je disk razdeljen na particije, lahko vsak del dobi svoj datotečni sistem, svojo črko pogona in svojo funkcijo. Tako lahko na enem fizičnem disku hkrati hranimo operacijski sistem, osebne podatke ali celo več različnih operacijskih sistemov.
